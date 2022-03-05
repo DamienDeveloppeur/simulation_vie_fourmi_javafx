@@ -1,4 +1,4 @@
 package ch.epfl.moocprog;
 
-public class AntWorker {
+public class AntWorker extends Positionable{
 }
